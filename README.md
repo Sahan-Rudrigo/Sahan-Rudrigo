@@ -102,31 +102,11 @@ I design LLM systems that **reason, call tools and coordinate**, not just answer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sahan-Rudrigo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan-Rudrigo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Sahan-Rudrigo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
 **🎓 B.Sc. Engineering (Hons.) in Computer Engineering**, University of Sri Jayewardenepura (2021 – 2026), Second Class Upper Division
 
-- 📜 Machine Learning Specialization, *DeepLearning.AI & Stanford University*
-- 📜 Retrieval Augmented Generation (RAG), *DeepLearning.AI*
-- 📜 AI/ML Engineer: Stage 1 & 2, *SLIIT, Faculty of Computing*
-- 📜 Computer Vision: YOLO Custom Object Detection, *Packt*
-
-## 🤝 Leadership
-
-Secretary, **IESL Student Chapter, USJ** · Sri Lanka Coordinator, **Sri Lanka-Canada Scholarship Foundation** · Former CEO, **Brotherhood for Humanity** charity
 
 ---
 
