@@ -29,16 +29,16 @@ I'm a **Computer Engineering graduate** (B.Sc. Hons., Second Class Upper) from t
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
 | Area | Focus |
 |---|---|
-| 🤖 **LLMs** | Fine-tuning (LoRA, QLoRA, PEFT), prompt engineering, Hugging Face Transformers |
-| 🔎 **RAG** | Retrieval pipelines, embeddings, vector search with Pinecone |
-| 🕸️ **Agentic AI** | Multi-agent systems, tool-using agents, orchestration with LangGraph and LangChain |
-| 👁️ **Computer Vision** | Detection, tracking, OCR, re-identification, vision-language models |
-| 🎯 **Recommender Systems** | Collaborative filtering, content-based and hybrid approaches |
-| ⚙️ **MLOps** | Automated retraining, Docker, microservices, cloud deployment on AWS |
+|  **LLMs** | Fine-tuning (LoRA, QLoRA, PEFT), prompt engineering, Hugging Face Transformers |
+|  **RAG** | Retrieval pipelines, embeddings, vector search with Pinecone |
+|  **Agentic AI** | Multi-agent systems, tool-using agents, orchestration with LangGraph and LangChain |
+|  **Computer Vision** | Detection, tracking, OCR, re-identification, vision-language models |
+|  **Recommender Systems** | Collaborative filtering, content-based and hybrid approaches |
+|  **MLOps** | Automated retraining, Docker, microservices, cloud deployment on AWS |
 
 ### 🕸️ Agentic AI
 
